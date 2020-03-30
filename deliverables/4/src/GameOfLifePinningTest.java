@@ -33,6 +33,7 @@ public class GameOfLifePinningTest {
 	 */
 
 	/* TODO: Declare all variables required for the test fixture. */
+	int _size;
 
 	@Before
 	public void setUp() {
